@@ -25,7 +25,7 @@ These instructions guide model behavior. They cannot guarantee every stylistic j
 
 ## Add a skill
 
-Create skills/<skill-name>/SKILL.md with YAML name and description fields followed by Markdown instructions. Use lowercase names with hyphens and keep the folder name equal to the skill name. Keep vendor-specific adapters optional and outside the core instructions.
+Create skills/your-skill-name/SKILL.md with YAML name and description fields followed by Markdown instructions. Use lowercase names with hyphens and keep the folder name equal to the skill name. Keep vendor-specific adapters optional and outside the core instructions.
 
 ## Validation
 
