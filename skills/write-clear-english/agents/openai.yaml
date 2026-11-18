@@ -1,0 +1,7 @@
+interface:
+  display_name: "Clear Technical Writing"
+  short_description: "Keep precise terms and simplify surrounding prose"
+  default_prompt: "Use $write-clear-english to write a clear, precise response or document."
+
+policy:
+  allow_implicit_invocation: true
